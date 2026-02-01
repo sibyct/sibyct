@@ -23,5 +23,3 @@
 ### 📫 Get in Touch
 * [cite_start]**LinkedIn:** [sibyct](https://www.linkedin.com/in/sibyct) 
 * **Email:** sibyct@gmail.com
-* ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
