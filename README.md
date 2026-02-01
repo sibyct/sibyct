@@ -1,25 +1,23 @@
 # Hi, I'm Siby Chacko Thomas 👋
-**Senior Software Engineer | UI Developer | [cite_start]Full Stack Engineer** [cite: 2, 9]
+**Senior Software Engineer | UI Developer | Full Stack Engineer**
 
 ### 🚀 Professional Summary
-[cite_start]I am a seasoned engineer with over 10 years of experience in architecting complex enterprise applications[cite: 9, 22, 32]. [cite_start]I specialize in building high-performance UIs and automating workflows through AI[cite: 12, 13, 18].
+I am a seasoned engineer with over 10 years of experience in architecting complex enterprise applications. I specialize in building high-performance UIs, optimizing data rendering, and automating workflows through AI.
 
 ### 🛠 Technical Skills
-* **Frontend:** JavaScript (ES6+), TypeScript, Angular, React.js, ExtJS, HTML5, CSS3, Sass[cite: 5].
-* [cite_start]**Backend:** Node.js, Go, Postgresql, RESTful APIs[cite: 7].
-* [cite_start]**Data Viz:** D3.js, Chart.js[cite: 5].
-* **Tools:** Git, Webpack, Jenkins, Jira[cite: 7].
+* **Frontend:** JavaScript (ES6+), TypeScript, Angular, React.js, ExtJS, HTML5, CSS3, Sass.
+* **Backend:** Node.js, Go, Postgresql, RESTful APIs.
+* **Data Viz:** D3.js, Chart.js.
+* **Tools:** Git, Webpack, Jenkins, Jira.
+* **Methodologies:** Agile/Scrum, TDD, Responsive Web Design.
 
 ### 📈 Career Highlights
-* [cite_start]**EPAM:** Built a secure AI platform that increased workflow efficiency and boosted data rendering speeds by 30%[cite: 12, 13].
-* [cite_start]**Celestial Systems:** Architected a high-performance data grid for React and a custom VS Code plugin for code automation[cite: 18, 19].
-* **Infosys:** Spearheaded legacy migrations and optimized Angular performance by 30%[cite: 25, 27].
-
-### 📁 Featured Projects
-* [cite_start]**AI Toolbox:** Secure hub for Finance productivity using Angular and Gemini[cite: 41, 43].
-* [cite_start]**GRUI:** Modern enterprise-grade grid solution for React UI[cite: 44, 45].
-* **Numly:** Peer coaching platform using Angular and Golang[cite: 46, 47].
+* **EPAM:** Built a secure AI platform for Finance and boosted data rendering speeds by 30% using Angular Material.
+* **Celestial Systems:** Architected a high-performance data grid for React and developed a custom VS Code plugin to automate code generation.
+* **Infosys:** Spearheaded legacy migrations to modern stacks and optimized Angular change detection to improve performance by 30%.
+* **Point Cross:** Developed a feature-rich Log Viewer using D3.js and Ext JS with web worker optimization.
 
 ### 📫 Get in Touch
-* [cite_start]**LinkedIn:** [sibyct](https://www.linkedin.com/in/sibyct) 
+* **LinkedIn:** [linkedin.com/in/sibyct](https://www.linkedin.com/in/sibyct)
 * **Email:** sibyct@gmail.com
+* **Location:** Poland
